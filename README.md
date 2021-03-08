@@ -1,3 +1,5 @@
+# 预览
+![overview](https://raw.githubusercontent.com/Fanduzi/Figure_bed/master/DB%E7%94%BB%E5%83%8F/overview.png)
 
 # 使用方法
 ## `mon_mysql_dml.py`用于从kafka消费binlog信息写入clickhouse. 使用systemd管理
