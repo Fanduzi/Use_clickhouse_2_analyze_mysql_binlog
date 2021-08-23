@@ -1,3 +1,7 @@
+# 说明
+这个项目是学习clickhouse时写的, 因为没啥好的测试数据, 以前尝试过改binlog2sql代码, 实时解析binlog将原始sql和回滚sql写到MySQL, 但尝试做一些分析查询的时候就完蛋了. 所以当时也是想看看ClickHouse性能到底咋样. 目前我这边单表已经存了80亿数据了(而且数据只占110G空间), 有物化视图加持查询速度还是杠杠的. 
+
+
 # 预览
 ![overview](https://raw.githubusercontent.com/Fanduzi/Figure_bed/master/DB%E7%94%BB%E5%83%8F/overview.png)
 
